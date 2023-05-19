@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto", sans-serif;
+  }
+.content {
+  margin: 0;
+}
+.container {
+  display: flex;
+}
+.imgwh {
+  vertical-align: middle;
+  border-style: none;
+}
+.ipbox{
+    width: 500px;
+    margin-bottom: 10px;
+}
+.rowcontent{
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+}

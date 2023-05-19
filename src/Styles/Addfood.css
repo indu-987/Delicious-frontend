@@ -1,0 +1,60 @@
+.AddDiv {
+  display: flex;
+  padding: 20px;
+  font-size :20px;
+}
+.fom {
+  margin-left:470px;
+}
+
+.pancakeimg {
+  margin-right: 100px;
+}
+label {
+  display: block;
+  margin: 1rem 0;
+}
+.inpbx,
+textarea {
+  margin: 0;
+  width: 100%;
+  cursor: pointer;
+}
+
+.inpbx,
+textarea{
+  font:15px;
+  margin-top: 0.3rem;
+  border: 1px solid #465362;
+  border-radius: 3px;
+  outline: none;
+  color: #011936;
+  min-height: 2rem;
+  padding: 8px;
+}
+.inpbx:focus,
+textarea:focus {
+  outline: 1px solid #011936;
+}
+
+.addbutton {
+  padding: 5px;
+  background-color: orangered;
+  margin-top: 35px;
+  width: 60%;
+  max-width: 200px;
+  height: 2em;
+  line-height: 1;
+  font-size: inherit;
+  margin-left: 70px;
+  background-color: #0d1183;
+  color: #ffffff;
+  border-color: transparent;
+  outline: none;
+  cursor: wait;
+  border-radius: 8px;
+}
+
+.addbutton:hover {
+  background-color: #011936;
+}

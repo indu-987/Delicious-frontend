@@ -1,0 +1,33 @@
+
+
+.details{
+   
+    margin: 20px;
+    margin-top: 230px;
+}
+
+.card-container {
+    margin:  80px;
+    margin-left: 260px;
+    background: rgb(97,23,147);
+    background: linear-gradient(90deg, rgba(97,23,147,1) 17%, rgba(87,35,74,1) 68%, rgba(77,47,6,1) 100%);    border-radius: 10px;
+    box-shadow: 10px 20px 20px 10px rgba(72, 62, 62, 0.75);
+    color: #f8faff;
+    height: 410px;
+    font-size: 20px;
+    width: 780px;
+    padding: 24px;
+}
+
+.round {
+    display: flex;
+    height: 180px;
+    width: 290px;
+    margin: 10px auto;
+    border-radius: 2px;
+    padding: 7px;
+    cursor: progress;
+}
+.detailNamess :hover {
+    color: #03bfcb;
+}

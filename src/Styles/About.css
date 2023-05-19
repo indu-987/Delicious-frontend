@@ -1,0 +1,39 @@
+.about2div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 10px 10px -20px;
+}
+
+.about2divside {
+  display: flex;
+  flex-direction: column;
+}
+
+.aboutdetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  margin-left: 20px;
+}
+
+.about1row {
+  display: flex;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(168, 150, 150);
+  box-shadow: 10px 10px grey;
+  padding: 45px;
+  min-width: 200px;
+  margin: 20px;
+}
+.box p {
+  font-size: 15px;
+}
+/* https://preview.colorlib.com/theme/stories/images/about.jpg.webp */

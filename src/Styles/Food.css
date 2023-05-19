@@ -1,0 +1,42 @@
+.MAIN{
+   border: SOLID 1PX ;
+   margin-left: 50px;
+   width:1200px;
+   padding: 20px;
+   
+}
+
+.cardbody {
+   border: SOLID 1PX ;
+   margin-left: 50px;
+   width:1200px;
+   padding: 20px;
+    width: 245px;
+    display: inline-block;
+    overflow: hidden;
+    margin: 30px;
+    border: 1px solid rgb(106, 99, 99);
+    box-shadow: 5px 5px 15px 5px rgb(139, 139, 163);
+ }
+ .cardimg img {
+    position: relative;
+    height: 140px;
+    width: 100%;
+    cursor: pointer;
+ }
+ 
+ .cardinfo {
+   
+    display: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 10px 30px 30px 30px;
+ }
+ .cardinfo h3 {
+    font-size: 18px;
+    font-weight: 700;
+ }
+ .cardinfo p {
+    font-size: 14px;
+    font-weight: 600;
+ }
